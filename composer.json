@@ -5,7 +5,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "RandomPassword\\": "src/RandomPassword/"
+            "Santhiya715\\RandomPassword\\": "src/RandomPassword/"
         }
     },
     "authors": [
@@ -16,16 +16,4 @@
     ],
     "minimum-stability": "dev",
     "require": {}
-
 }
-"repositories": [
-    {
-      "type": "git",
-      "url": "https://github.com/santhiya715/random-password.git"
-    }
-  ],
-
-  "require": {
-        "vendor/my-private-repo": "dev-master"
-  }
-
