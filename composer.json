@@ -15,7 +15,7 @@
             "email": "santhiya715@gmail.com"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "dev-main",
     "require": {
 
     "php": ">=7.1.3",
