@@ -16,4 +16,13 @@
     ],
     "minimum-stability": "dev",
     "require": {}
+
 }
+
+    "extra": {
+        "branch-alias": {
+            "dev-master": "master"
+        }
+    }
+
+
