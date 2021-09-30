@@ -1,0 +1,19 @@
+{
+    "name": "santhiya715/random-password",
+    "description": "the demo",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RandomPassword\\": "src/RandomPassword/"
+        }
+    },
+    "authors": [
+        {
+            "name": "santhiya",
+            "email": "santhiya715@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
