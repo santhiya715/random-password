@@ -1,12 +1,13 @@
 {
     "name": "santhiya715/santhiya715",
-    "description": "the demo",
+    "description": "welcome the password",
     "type": "library",
-     "require": {
+    "require": {
     "php": ">=7.1.3",
     "illuminate/support": "5.6.* || 5.7.* || 5.8.* || 6.0.*"
   },
-  "license": "proprietary",
+    "license": "MIT",
+
   "authors": [
     {
       "name": "santhiya",
@@ -16,7 +17,7 @@
   "minimum-stability": "dev",
   "autoload": {
     "psr-4": {
-      "RandomPassword\\": "src/RandomPassword/"
+      "Santhiya715\\Santhiya715\\": "src/RandomPassword/"
     },
     "files": [
       "src/RandomPassword/Password.php"
